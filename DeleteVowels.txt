@@ -4,7 +4,8 @@
 #include <string.h>
  
 int check_vowel(char);
- 
+
+//program glowny
 int main()
 {
   char s[100], t[100];
