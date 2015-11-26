@@ -1,5 +1,7 @@
 #include stdio.h
 
+//dodaje koment
+
 int main(void)
 {
     printf(Hello, world!n);
