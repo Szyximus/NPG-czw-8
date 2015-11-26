@@ -11,7 +11,7 @@ int main()
   char s[100], t[100];
   int i, j = 0;
  
-  printf("Enter a string to delete vowels\n");
+  printf("Enter a string to delete vowels\n"); //komentarz Szymon Jakóbczyk
   gets(s);
  
   for(i = 0; s[i] != '\0'; i++) {
