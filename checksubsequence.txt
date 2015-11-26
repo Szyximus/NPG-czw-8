@@ -5,7 +5,11 @@
  
 int check_subsequence (char [], char[]);
  
+<<<<<<< HEAD
 int main () {	//komentarz maciek rajs
+=======
+int main () { //Komentarz Szymon
+>>>>>>> a1617fb1f8c127cbb2d3c8b642e230a3adb28a97
    int flag;
    char s1[1000], s2[1000];
  
